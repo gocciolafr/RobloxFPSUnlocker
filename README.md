@@ -1,5 +1,6 @@
 # RobloxFPSUnlocker
 With this simple program you can unlock the FPS for your Roblox client in just 2 clicks!
+![](https://img.shields.io/github/downloads/JustKleo/RobloxFPSUnlocker/total)
 ## How to use
 1. Install the `RFPSU.exe` file under [releases page](https://github.com/JustKleo/RobloxFPSUnlocker/releases "releases page")
 2. Run it
