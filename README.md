@@ -2,6 +2,11 @@
 With this simple program you can unlock the FPS for your Roblox client in just 2 clicks!
 
 ![](https://img.shields.io/github/downloads/JustKleo/RobloxFPSUnlocker/total)
+## Archived
+As for 27/02/2025,
+
+This project is archived because Roblox added a feature to change the FPS up to 240. You can use that feature instead, this project doesn't work anymore.
+You can also use [Bloxstrap](https://bloxstrap.org/) to change the FPS cap.
 ## How to use
 1. Install the `RFPSU.exe` file under [releases page](https://github.com/JustKleo/RobloxFPSUnlocker/releases "releases page")
 2. Run it
